@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_login_wechat_normal.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_wechat_normal.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_delete_grey.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_delete_grey.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_login_wechat_on.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_wechat_on.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_login_qq_on.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_qq_on.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_login_sina_on.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_sina_on.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher_round.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_login_cancle_normal.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_cancle_normal.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_login_cancle_on.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_cancle_on.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\btn_login_on.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\btn_login_on.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_login_sina_normal.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_sina_normal.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_login_qq_normal.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_login_qq_normal.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\btn_login_normal.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xhdpi\\btn_login_normal.png"
+    }
+]

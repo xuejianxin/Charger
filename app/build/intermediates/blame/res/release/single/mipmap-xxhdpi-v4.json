@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\welcom.png",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\mipmap-xxhdpi\\welcom.png"
+    }
+]

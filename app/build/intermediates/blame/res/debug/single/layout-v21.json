@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

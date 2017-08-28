@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]

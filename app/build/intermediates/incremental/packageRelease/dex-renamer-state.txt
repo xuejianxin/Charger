@@ -1,0 +1,4 @@
+#Fri Jun 02 20:05:13 CST 2017
+base.0=G\:\\Electronic\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=G\:\\Electronic\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex

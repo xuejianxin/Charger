@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=G:\Electronic\app\libs\umeng_social_sdk.jar
+FILE_HASH=03e186fabdab66983e2b2aa42a2b2de7cb37dc4a
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

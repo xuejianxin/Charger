@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signup.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_frogetpwd.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\activity_frogetpwd.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_item_simple.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_bak_platform_item_simple.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashs.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\activity_splashs.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list_item.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_bak_at_list_item.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcom.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\welcom.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_selector_dialog.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\582a3827f954c09555ca6598f2a1487e\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "G:\\Electronic\\app\\src\\main\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\Electronic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\JimCharles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\671639ad3ceccc44d7da23a4a1bdf9a6\\res\\layout\\abc_list_menu_item_layout.xml"
+    }
+]

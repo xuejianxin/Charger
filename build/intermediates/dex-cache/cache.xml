@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\106fb47ba0a4e9b211b1ccb86bb9bb20\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\95237938a59158bfa6b2799dd9db5c0c\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS 3.0 Kotlin\android-studio\gradle\m2repository\org\jetbrains\kotlin\kotlin-stdlib-jre7\1.1.2-4\kotlin-stdlib-jre7-1.1.2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6941e5b9d50a5690862458c7a5a83af2b1cd1d1f">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\8bf36aaa8f7547a119bbf59d76ec9227\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\cb5b9660c7ccbb11398ab7cb6e177cf2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\466be1709c6bfc4396bf41cbe474ff55\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\68ca5607c249477364b94f88fa7d648e\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\462c325293453ca269947bde29584533\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ea0a5205699167951c8bb1b606ca2fc8\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e42681cec2a42a1f8f4ebffea94448a2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\64ab2172f5192ec74f394d549bca0978\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\671639ad3ceccc44d7da23a4a1bdf9a6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\582a3827f954c09555ca6598f2a1487e\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JimCharles\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\6f8797f77c00252eb0ddb5b6c0072470\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS 3.0 Kotlin\android-studio\gradle\m2repository\org\jetbrains\kotlin\kotlin-stdlib\1.1.2-4\kotlin-stdlib-1.1.2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27c4cce21c0f12511bb80c88a0ca7d30ddc27f78">
+        <dex dex="G:\Electronic\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+
+</items>
